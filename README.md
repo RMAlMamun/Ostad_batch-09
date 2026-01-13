@@ -1,3 +1,28 @@
+## Todo Application (Django + Tailwind CSS)
+
+This is a Django-based Todo application with a modern UI built using Tailwind CSS.
+Users can add, view, and delete tasks efficiently.
+
+## Run Locally
+
+1. Clone the repository:
+   git clone https://github.com/YOUR-USERNAME/ostad-django-todo.git
+
+2. Create virtual environment and install dependencies:
+   python -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+
+3. Run migrations and start server:
+   python manage.py migrate
+   python manage.py runserver
+
+## Live Deployment
+
+
+
+
+
 # Django Todo App
 
 A complete Todo web application built with Django, featuring a modern UI with Tailwind CSS.
