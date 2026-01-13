@@ -6,7 +6,7 @@ Users can add, view, and delete tasks efficiently.
 ## Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/YOUR-USERNAME/ostad-django-todo.git
+   git clone https://github.com/latifurrafi/Ostad_batch-09
 
 2. Create virtual environment and install dependencies:
    python -m venv venv
